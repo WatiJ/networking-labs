@@ -27,4 +27,4 @@ troubleshooting point.
 | `Configure_a_Wireless_Router_and_Client.html` | Original Cisco NetAcad instruction manual |
 
 ## Screenshot
-<img width="1439" height="694" alt="Screenshot 2026-06-24 at 2 23 28 AM" src="https://github.com/user-attachments/assets/67dd15cd-3a15-4919-ad0d-0cd2e14f44f3" />
+<img width="1437" height="692" alt="Screenshot 2026-06-24 at 2 41 25 AM" src="https://github.com/user-attachments/assets/30da328f-c2e8-42c9-8d85-01e0857cdef4" />
