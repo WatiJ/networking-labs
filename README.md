@@ -15,6 +15,7 @@ network engineering and cybersecurity.
 | # | Lab | Topics Covered | Status |
 |---|-----|---------------|--------|
 | 01 | [Wireless Router & Clients](./Lab01_Wireless_Router_and_Clients/) | DHCP, WPA2, coaxial cabling, wireless config | ✅ Complete |
+| 02 | [DHCP on a Wireless Router](./Lab02_DHCP_on_a_Wireless_Router/) | DHCP scope config, router IP change, client renewal | ✅ Complete |
 
 ---
 
