@@ -18,6 +18,7 @@ network engineering and cybersecurity.
 | 02 | [DHCP on a Wireless Router](./Lab02_DHCP_on_a_Wireless_Router/) | DHCP scope config, router IP change, client renewal | ✅ Complete |
 | 03 | [Examine NAT on a Wireless Router](./Lab03_Examine_NAT_on_a_Wireless_Router/) | NAT translation, private vs public addressing, packet header analysis | ✅ Complete |
 | 04 | [Identify MAC and IP Addresses](./Lab04_Identify_MAC_and_IP_Addresses/) | MAC vs IP behaviour, hop-to-hop vs end-to-end, Layer 2 vs Layer 3 | ✅ Complete |
+| 05 | [Observe Traffic Flow in a Routed Network](./Lab05_Observe_Traffic_Flow_in_a_Routed_Network/) | Broadcast domains, network segmentation, routing benefits, ipconfig /renew | ✅ Complete |
 
 ---
 
